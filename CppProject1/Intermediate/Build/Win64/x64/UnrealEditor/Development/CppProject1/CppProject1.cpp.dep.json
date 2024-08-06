@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\desktop\\tmp\\cppproject1\\source\\cppproject1\\cppproject1.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\desktop\\tmp\\cppproject1\\intermediate\\build\\win64\\x64\\cppproject1editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\desktop\\tmp\\cppproject1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cppproject1\\definitions.cppproject1.h",
+            "c:\\users\\user\\desktop\\tmp\\cppproject1\\source\\cppproject1\\cppproject1.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

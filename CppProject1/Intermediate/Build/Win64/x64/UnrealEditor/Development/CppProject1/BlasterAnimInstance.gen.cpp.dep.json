@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\desktop\\tmp\\cppproject1\\intermediate\\build\\win64\\unrealeditor\\inc\\cppproject1\\uht\\blasteraniminstance.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\desktop\\tmp\\cppproject1\\intermediate\\build\\win64\\x64\\cppproject1editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\desktop\\tmp\\cppproject1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cppproject1\\definitions.cppproject1.h",
+            "c:\\users\\user\\desktop\\tmp\\cppproject1\\source\\cppproject1\\blasteraniminstance.h",
+            "c:\\users\\user\\desktop\\tmp\\cppproject1\\intermediate\\build\\win64\\unrealeditor\\inc\\cppproject1\\uht\\blasteraniminstance.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

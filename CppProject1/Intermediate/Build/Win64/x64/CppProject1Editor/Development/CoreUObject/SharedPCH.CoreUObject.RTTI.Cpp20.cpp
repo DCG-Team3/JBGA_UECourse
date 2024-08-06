@@ -1,0 +1,2 @@
+// Compiler: 14.38.33135
+#include "C:/Users/USER/Desktop/tmp/CppProject1/Intermediate/Build/Win64/x64/CppProject1Editor/Development/CoreUObject/SharedPCH.CoreUObject.RTTI.Cpp20.h"

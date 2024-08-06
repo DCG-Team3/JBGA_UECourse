@@ -1,0 +1,266 @@
+[
+	{
+		"file": "C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\Source\\CppProject1\\BTService_PlayerLocation.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\.vscode\\compileCommands_CppProject1\\CppProject1.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\Source\\CppProject1\\BTService_PlayerLocation.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\.vscode\\compileCommands_CppProject1\\CppProject1.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\Source\\CppProject1\\BTService_PlayerLocationIfSeen.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\.vscode\\compileCommands_CppProject1\\CppProject1.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\Source\\CppProject1\\BTService_PlayerLocationIfSeen.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\.vscode\\compileCommands_CppProject1\\CppProject1.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\Source\\CppProject1\\BTTask_ClearBlackboardValue.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\.vscode\\compileCommands_CppProject1\\CppProject1.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\Source\\CppProject1\\BTTask_ClearBlackboardValue.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\.vscode\\compileCommands_CppProject1\\CppProject1.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\Source\\CppProject1\\BTTask_Shoot.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\.vscode\\compileCommands_CppProject1\\CppProject1.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\Source\\CppProject1\\BTTask_Shoot.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\.vscode\\compileCommands_CppProject1\\CppProject1.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\Source\\CppProject1\\BlasterAIController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\.vscode\\compileCommands_CppProject1\\CppProject1.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\Source\\CppProject1\\BlasterAIController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\.vscode\\compileCommands_CppProject1\\CppProject1.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\Source\\CppProject1\\BlasterAnimInstance.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\.vscode\\compileCommands_CppProject1\\CppProject1.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\Source\\CppProject1\\BlasterAnimInstance.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\.vscode\\compileCommands_CppProject1\\CppProject1.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\Source\\CppProject1\\BlasterCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\.vscode\\compileCommands_CppProject1\\CppProject1.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\Source\\CppProject1\\BlasterCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\.vscode\\compileCommands_CppProject1\\CppProject1.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\Source\\CppProject1\\BlasterController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\.vscode\\compileCommands_CppProject1\\CppProject1.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\Source\\CppProject1\\BlasterController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\.vscode\\compileCommands_CppProject1\\CppProject1.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\Source\\CppProject1\\BlasterGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\.vscode\\compileCommands_CppProject1\\CppProject1.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\Source\\CppProject1\\BlasterGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\.vscode\\compileCommands_CppProject1\\CppProject1.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\Source\\CppProject1\\CombatComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\.vscode\\compileCommands_CppProject1\\CppProject1.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\Source\\CppProject1\\CombatComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\.vscode\\compileCommands_CppProject1\\CppProject1.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\Source\\CppProject1\\CppProject1.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\.vscode\\compileCommands_CppProject1\\CppProject1.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\Source\\CppProject1\\CppProject1.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\.vscode\\compileCommands_CppProject1\\CppProject1.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\Source\\CppProject1\\CppProject1.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\.vscode\\compileCommands_CppProject1\\CppProject1.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\Source\\CppProject1\\CppProject1Character.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\.vscode\\compileCommands_CppProject1\\CppProject1.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\Source\\CppProject1\\CppProject1Character.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\.vscode\\compileCommands_CppProject1\\CppProject1.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\Source\\CppProject1\\CppProject1GameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\.vscode\\compileCommands_CppProject1\\CppProject1.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\Source\\CppProject1\\CppProject1GameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\.vscode\\compileCommands_CppProject1\\CppProject1.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\Source\\CppProject1\\HitScanWeapon.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\.vscode\\compileCommands_CppProject1\\CppProject1.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\Source\\CppProject1\\HitScanWeapon.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\.vscode\\compileCommands_CppProject1\\CppProject1.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\Source\\CppProject1\\MovingObstacle.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\.vscode\\compileCommands_CppProject1\\CppProject1.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\Source\\CppProject1\\MovingObstacle.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\.vscode\\compileCommands_CppProject1\\CppProject1.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\Source\\CppProject1\\Weapon.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\.vscode\\compileCommands_CppProject1\\CppProject1.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\Source\\CppProject1\\Weapon.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\USER\\Desktop\\tmp\\CppProject1\\.vscode\\compileCommands_CppProject1\\CppProject1.1.rsp"
+		],
+		"directory": "D:\\UE_5.4\\Engine\\Source"
+	}
+]

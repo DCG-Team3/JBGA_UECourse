@@ -1,0 +1,39 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CppProject1.cpp.obj": [
+			"BlasterAIController.gen.cpp.obj",
+			"BlasterAnimInstance.gen.cpp.obj",
+			"BlasterCharacter.gen.cpp.obj",
+			"BlasterController.gen.cpp.obj",
+			"BlasterGameMode.gen.cpp.obj",
+			"BTService_PlayerLocation.gen.cpp.obj",
+			"BTService_PlayerLocationIfSeen.gen.cpp.obj",
+			"BTTask_ClearBlackboardValue.gen.cpp.obj",
+			"BTTask_Shoot.gen.cpp.obj",
+			"CombatComponent.gen.cpp.obj",
+			"CppProject1.init.gen.cpp.obj",
+			"CppProject1Character.gen.cpp.obj",
+			"CppProject1GameMode.gen.cpp.obj",
+			"HitScanWeapon.gen.cpp.obj",
+			"MovingObstacle.gen.cpp.obj",
+			"Weapon.gen.cpp.obj",
+			"BlasterAIController.cpp.obj",
+			"BlasterAnimInstance.cpp.obj",
+			"BlasterCharacter.cpp.obj",
+			"BlasterController.cpp.obj",
+			"BlasterGameMode.cpp.obj",
+			"BTService_PlayerLocation.cpp.obj",
+			"BTService_PlayerLocationIfSeen.cpp.obj",
+			"BTTask_ClearBlackboardValue.cpp.obj",
+			"BTTask_Shoot.cpp.obj",
+			"CombatComponent.cpp.obj",
+			"CppProject1.cpp.obj",
+			"CppProject1Character.cpp.obj",
+			"CppProject1GameMode.cpp.obj",
+			"HitScanWeapon.cpp.obj",
+			"MovingObstacle.cpp.obj",
+			"Weapon.cpp.obj"
+		]
+	}
+}
