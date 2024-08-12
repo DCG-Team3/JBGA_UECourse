@@ -4,12 +4,14 @@
 #include "BlasterController.h"
 #include "TimerManager.h"
 #include "Blueprint/UserWidget.h"
+#include "Blueprint/UserWidget.h"
+#include "Blueprint/WidgetBlueprintLibrary.h"
 
 
 void ABlasterController::BeginPlay()
 {
     Super::BeginPlay();
-
+    
     UUserWidget* HUD = CreateWidget(this, HUDClass);
     if(HUD)
     {

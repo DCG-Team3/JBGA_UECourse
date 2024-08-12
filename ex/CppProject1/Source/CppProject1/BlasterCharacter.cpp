@@ -45,7 +45,7 @@ void ABlasterCharacter::PossessedBy(AController *NewController)
 		UEnhancedInputLocalPlayerSubsystem* Subsystem = 
 			ULocalPlayer::GetSubsystem<UEnhancedInputLocalPlayerSubsystem>(PlayerController->GetLocalPlayer());
 
-		if(Subsystem)
+		if(Subsystem && BlasterMappingContext)
         {
             // 이미 Mapping Context가 추가되어 있는지 확인
             if(!Subsystem->HasMappingContext(BlasterMappingContext))
